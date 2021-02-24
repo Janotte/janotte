@@ -25,14 +25,14 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-status">
+    <a href="https://github.com/Janotte/github-readme-status">
     	<img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janotte&hide=PowerShell&layout=compact&hide_border=true" 
          alt="Janotte's top languages" 
          align="center"
     	/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-status">
+    <a href="https://github.com/Janotte/github-readme-status">
         <img 
              src="https://github-readme-stats.vercel.app/api?	username=Janotte&show_icons=true&hide_border=true" 
              alt="Janotte's status"
