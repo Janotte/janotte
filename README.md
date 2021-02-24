@@ -17,7 +17,6 @@
 
 
 - :globe_with_meridians: I’m currently working as **CEO** on **[Hobby Informática](https://www.hobby.inf.br/)**
-- :blue_book: I’m currently learning **...**
 - :postbox: How to reach me
 - - Email: **sjanotte@gmail.com**
 - - Linkedin: **[Sandro André Janotte](https://www.linkedin.com/in/sandro-andr%C3%A9-janotte-2b022450/)**
@@ -25,5 +24,20 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Janotte&show_icons=true" alt="Janotte"/></p>
-
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    	<img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janotte&hide=PowerShell&layout=compact&hide_border=true" 
+         alt="Janotte's top languages" 
+         align="center"
+    	/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+             src="https://github-readme-stats.vercel.app/api?	username=Janotte&show_icons=true&hide_border=true" 
+             alt="Janotte's stats"
+             height="150"
+             align="center"
+         />
+    </a>
+</p>
