@@ -34,7 +34,7 @@
     </a>
     <a href="https://github.com/Janotte/janotte/github-readme-status">
         <img 
-             src="https://github-readme-stats.vercel.app/api?	username=Janotte&show_icons=true&hide_border=true" 
+             src="https://github-readme-stats.vercel.app/api?username=Janotte&show_icons=true&hide_border=true" 
              alt="Janotte's status"
              height="150"
              align="center"
