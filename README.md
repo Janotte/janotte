@@ -6,23 +6,31 @@
 
 ---
 
-## 🚀 Sobre mim
+- ## 🚀 Stack de Desenvolvimento
 
-- 💻 Trabalho com infraestrutura AWS, Terraform, React e automações em PowerShell
-- 📊 Ajudo empresa a organizarem suas infraestruturas com tecnologia
-- 📚 Estou sempre aprendendo algo novo
+### 🖥️ Backend
+- ☕ Java
+- 🌱 Spring Boot
+- 🗄️ API REST
+- 🔐 JWT, OAuth2
+- 🐘 PostgreSQL | 🐬 MySQL
 
----
+### 🎨 Frontend
+- ⚛️ React.js
+- 🅰️ Angular
+- 🎯 TypeScript
+- 💅 TailwindCSS / CSS3
 
-## 🛠️ Tecnologias & Ferramentas
+### ☁️ DevOps / Cloud
+- ☁️ AWS (EC2, S3, ALB, ECS)
+- 🛠️ Terraform
+- 🐳 Docker
+- 🧪 CI/CD com CodeBuild + CodePipeline
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Outros
+- 📝 Git & GitHub
+- 🧠 Testes unitários e integração
+- 🧩 Integrações com APIs externas
 
 ---
 
