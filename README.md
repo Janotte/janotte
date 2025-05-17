@@ -1,7 +1,8 @@
 <h1 align="center">Olá! Eu sou o Sandro 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor apaixonado por tecnologia, programação, automação e soluções em nuvem ☁️</em>
+  <em>🎯 Desenvolvedor apaixonado por tecnologia, com forte atuação em programação, automação de processos e soluções escaláveis em nuvem.
+Tenho como missão transformar desafios complexos em soluções práticas e eficientes, unindo backend robusto, front-end moderno e infraestrutura como código. Sou movido por inovação, aprendizado contínuo e pelo desejo de impactar positivamente negócios através da tecnologia.</em>
 </p>
 
 ---
