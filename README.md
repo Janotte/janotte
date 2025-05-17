@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janotte&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrojanotte&layout=compact&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janotte&layout=compact&theme=dark" height="165">
 </p>
 
 ---
