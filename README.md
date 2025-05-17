@@ -29,8 +29,6 @@
 
 ### 💻 Outros
 - 📝 Git & GitHub
-- 🧠 Testes unitários e integração
-- 🧩 Integrações com APIs externas
 
 ---
 
